@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **g.arin@iitg.ac.in**
 
-- 📄 Know about my experiences [Link](https://drive.google.com/file/d/1KqQ5w8oyqzJ9c06UES_EKXHcIb0z6SvG/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KqQ5w8oyqzJ9c06UES_EKXHcIb0z6SvG/view?usp=sharing)
 
-- ⚡ Fun fact **In search of Inter-discliplinary relation between Physics and Computer Science**
+- ⚡ Fun fact **In search of Inter-disciplinary relation between Physics and Computer Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
