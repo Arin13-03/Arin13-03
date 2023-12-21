@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1j5IIpjpRZSh-BLMCIXCylGhqdCG9h29_/view?usp=sharing)
 
-- ⚡ Fun fact **In search of Inter-disciplinary relation between Physics and CS**
+- ⚡ Fun fact: **In search of Inter-disciplinary relation between Physics and CS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
