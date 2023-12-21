@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently on **Machine Learning**
 
 - 💬 Ask me about **Open Source and Web Development**
 
