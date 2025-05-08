@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **g.arin@iitg.ac.in**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IxCzxTo6Ea-pm5jnvU1C1D-nh2EiIBfR/view?usp=sharing)
-
 - ⚡ Fun fact: **In search of Inter-disciplinary relation between Physics and CS**
 
 <h3 align="left">Connect with me:</h3>
